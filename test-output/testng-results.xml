@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-22T11:12:46Z" name="NEET Application Test Automation Test Suite" finished-at="2021-03-22T11:13:29Z" duration-ms="42981">
+    <groups>
+    </groups>
+    <test started-at="2021-03-22T11:12:46Z" name="PROFILE" finished-at="2021-03-22T11:13:29Z" duration-ms="42981">
+      <class name="com.qa.Testcase.Profilepage_test">
+        <test-method is-config="true" signature="initialization(java.lang.String)[pri:0, instance:com.qa.Testcase.Profilepage_test@4f67eb2a]" started-at="2021-03-22T16:42:46Z" name="initialization" finished-at="2021-03-22T16:42:53Z" duration-ms="6783" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://neet.m-tutor.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.Testcase.Profilepage_test@4f67eb2a]" started-at="2021-03-22T16:42:53Z" name="beforeMethod" finished-at="2021-03-22T16:42:53Z" duration-ms="28" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.Testcase.Profilepage_test.Sigin() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Sigin()[pri:1, instance:com.qa.Testcase.Profilepage_test@4f67eb2a]" started-at="2021-03-22T16:42:53Z" name="Sigin" finished-at="2021-03-22T16:43:01Z" duration-ms="8388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sigin -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.Testcase.Profilepage_test@4f67eb2a]" started-at="2021-03-22T16:43:01Z" name="beforeMethod" finished-at="2021-03-22T16:43:01Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.Testcase.Profilepage_test.emptyprofile() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="emptyprofile()[pri:2, instance:com.qa.Testcase.Profilepage_test@4f67eb2a]" started-at="2021-03-22T16:43:01Z" name="emptyprofile" finished-at="2021-03-22T16:43:03Z" duration-ms="1549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyprofile -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.Testcase.Profilepage_test@4f67eb2a]" started-at="2021-03-22T16:43:03Z" name="beforeMethod" finished-at="2021-03-22T16:43:03Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.Testcase.Profilepage_test.pnameonly() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="pnameonly()[pri:3, instance:com.qa.Testcase.Profilepage_test@4f67eb2a]" started-at="2021-03-22T16:43:03Z" name="pnameonly" finished-at="2021-03-22T16:43:04Z" duration-ms="918" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pnameonly -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.Testcase.Profilepage_test@4f67eb2a]" started-at="2021-03-22T16:43:04Z" name="beforeMethod" finished-at="2021-03-22T16:43:04Z" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.Testcase.Profilepage_test.pnameonlylessthan2() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="pnameonlylessthan2()[pri:4, instance:com.qa.Testcase.Profilepage_test@4f67eb2a]" started-at="2021-03-22T16:43:04Z" name="pnameonlylessthan2" finished-at="2021-03-22T16:43:05Z" duration-ms="842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pnameonlylessthan2 -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.Testcase.Profilepage_test@4f67eb2a]" started-at="2021-03-22T16:43:05Z" name="beforeMethod" finished-at="2021-03-22T16:43:05Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.Testcase.Profilepage_test.pname_pemail() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="pname_pemail()[pri:5, instance:com.qa.Testcase.Profilepage_test@4f67eb2a]" started-at="2021-03-22T16:43:05Z" name="pname_pemail" finished-at="2021-03-22T16:43:06Z" duration-ms="962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pname_pemail -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.Testcase.Profilepage_test@4f67eb2a]" started-at="2021-03-22T16:43:06Z" name="beforeMethod" finished-at="2021-03-22T16:43:06Z" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.Testcase.Profilepage_test.pname_Invalidemail() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="pname_Invalidemail()[pri:6, instance:com.qa.Testcase.Profilepage_test@4f67eb2a]" started-at="2021-03-22T16:43:06Z" name="pname_Invalidemail" finished-at="2021-03-22T16:43:07Z" duration-ms="948" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pname_Invalidemail -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.Testcase.Profilepage_test@4f67eb2a]" started-at="2021-03-22T16:43:07Z" name="beforeMethod" finished-at="2021-03-22T16:43:07Z" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.Testcase.Profilepage_test.allinputs() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="allinputs()[pri:7, instance:com.qa.Testcase.Profilepage_test@4f67eb2a]" started-at="2021-03-22T16:43:07Z" name="allinputs" finished-at="2021-03-22T16:43:11Z" duration-ms="3911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allinputs -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.Testcase.Profilepage_test@4f67eb2a]" started-at="2021-03-22T16:43:11Z" name="beforeMethod" finished-at="2021-03-22T16:43:11Z" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.Testcase.Profilepage_test.profileupdate() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="profileupdate()[pri:8, instance:com.qa.Testcase.Profilepage_test@4f67eb2a]" started-at="2021-03-22T16:43:11Z" name="profileupdate" finished-at="2021-03-22T16:43:16Z" duration-ms="5111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- profileupdate -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.Testcase.Profilepage_test@4f67eb2a]" started-at="2021-03-22T16:43:16Z" name="beforeMethod" finished-at="2021-03-22T16:43:16Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.Testcase.Profilepage_test.profileupdateinvalid() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="profileupdateinvalid()[pri:9, instance:com.qa.Testcase.Profilepage_test@4f67eb2a]" started-at="2021-03-22T16:43:16Z" name="profileupdateinvalid" finished-at="2021-03-22T16:43:17Z" duration-ms="1649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- profileupdateinvalid -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.Testcase.Profilepage_test@4f67eb2a]" started-at="2021-03-22T16:43:17Z" name="beforeMethod" finished-at="2021-03-22T16:43:17Z" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.Testcase.Profilepage_test.profileupdatemorethan5mb() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="profileupdatemorethan5mb()[pri:10, instance:com.qa.Testcase.Profilepage_test@4f67eb2a]" started-at="2021-03-22T16:43:17Z" name="profileupdatemorethan5mb" finished-at="2021-03-22T16:43:20Z" duration-ms="2687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- profileupdatemorethan5mb -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.Testcase.Profilepage_test@4f67eb2a]" started-at="2021-03-22T16:43:20Z" name="beforeMethod" finished-at="2021-03-22T16:43:20Z" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.Testcase.Profilepage_test.pressback() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="pressback()[pri:11, instance:com.qa.Testcase.Profilepage_test@4f67eb2a]" started-at="2021-03-22T16:43:20Z" name="pressback" finished-at="2021-03-22T16:43:28Z" duration-ms="8290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pressback -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.Testcase.Profilepage_test@4f67eb2a]" started-at="2021-03-22T16:43:28Z" name="tearDown" finished-at="2021-03-22T16:43:29Z" duration-ms="826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.Testcase.Profilepage_test -->
+    </test> <!-- PROFILE -->
+  </suite> <!-- NEET Application Test Automation Test Suite -->
+</testng-results>

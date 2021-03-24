@@ -1,0 +1,14 @@
+com\qa\Testcase\Profilepage_test.class
+com\qa\Testcase\MyTestpage_test.class
+com\qa\Testcase\Contactuspage_test.class
+com\qa\Testcase\Homepage_test.class
+com\qa\Testcase\Signuppage_test.class
+com\qa\Testcase\Otpforgotpage_test.class
+com\qa\Testcase\Downloadspage_test.class
+com\qa\Testcase\Resetpasswordpage_test.class
+com\qa\Testcase\Signinpage_test.class
+com\qa\Testcase\Forgotpage_test.class
+com\qa\Testcase\Otpsignuppage_test.class
+com\qa\Testcase\Test_test_Neet.class
+com\qa\Testcase\Test_test_JEE.class
+com\qa\Testcase\Changepasswordpage_test.class

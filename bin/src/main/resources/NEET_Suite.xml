@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NEET Application Test Automation Test Suite"  parallel="false" thread-count="1">
+	<parameter name = "URl" value="http://neet.m-tutor.com/"/>
+	<test name="SIGNUP">
+		<classes>
+			<class name="com.qa.Testcase.Signuppage_test"/>
+		</classes>
+	</test>
+	<test name="SIGNUP-OTP">
+		<classes>
+			<class name="com.qa.Testcase.Otpsignuppage_test"/>
+		</classes>
+	</test>
+	<test name="FORGOT">
+		<classes>
+			<class name="com.qa.Testcase.Forgotpage_test"/>
+		</classes>
+	</test>
+	<test name="FORGOTOTP">
+		<classes>
+			<class name="com.qa.Testcase.Otpforgotpage_test"/>
+		</classes>
+	</test>
+	<test name="RESETPASSWORD">
+		<classes>
+			<class name="com.qa.Testcase.Resetpasswordpage_test"/>
+		</classes>
+	</test>
+	<test name="CHNAGEPASSWORD">
+		<classes>
+			<class name="com.qa.Testcase.Changepasswordpage_test"/>
+		</classes>
+	</test>
+	<test name="SIGNIN">
+		<classes>
+		    <class name="com.qa.Testcase.Signinpage_test"/>
+		</classes>
+	</test>
+	<test name="HOME">
+		<classes>
+			<class name="com.qa.Testcase.Homepage_test"/>
+		</classes>
+	</test>
+	<test name="DownloadQB">
+		<classes>
+			<class name="com.qa.Testcase.Downloadspage_test"/>
+		</classes>
+	</test>
+	<test name="PROFILE">
+		<classes>
+			<class name="com.qa.Testcase.Profilepage_test"/>
+		</classes>
+	</test>
+	<test name="MYTEST">
+		<classes>
+			<class name="com.qa.Testcase.MyTestpage_test"/>
+		</classes>
+	</test>
+	<test name="CONTACTUS">
+		<classes>
+			<class name="com.qa.Testcase.Contactuspage_test"/>
+		</classes>
+	</test>
+	<test name="TEST">
+		<classes>
+			<class name="com.qa.Testcase.Test_test_Neet"/>
+		</classes>
+	</test>
+</suite>
+

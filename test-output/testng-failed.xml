@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Failed suite [NEET Application Test Automation Test Suite]">
+  <parameter name="URl" value="http://neet.m-tutor.com/"/>
+  <test name="PROFILE(failed)">
+    <classes>
+      <class name="com.qa.Testcase.Profilepage_test">
+        <methods>
+          <include name="initialization"/>
+          <include name="profileupdateinvalid"/>
+          <include name="profileupdatemorethan5mb"/>
+          <include name="tearDown"/>
+          <include name="beforeMethod"/>
+          <include name="profileupdate"/>
+        </methods>
+      </class> <!-- com.qa.Testcase.Profilepage_test -->
+    </classes>
+  </test> <!-- PROFILE(failed) -->
+</suite> <!-- Failed suite [NEET Application Test Automation Test Suite] -->
